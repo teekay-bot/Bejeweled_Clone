@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - amethyst
+  - diamond
+  - emerald
+  - garnet
+  - ruby
+  - sapphire
+  - topaz
+  - tourmaline
+  - Gem_3x
+  - Gem_3x 1
+  - Gem_3x 2
+  - Gem_8x
+  - Gem_8x 1
+  - Gem_8x 2
+  - Gem_r4x
+  - Gem_r4x 1
+  - Gem_r4x 2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tile
+  - Water
+  - UI
+  - Gem
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2127791465
+    locked: 0
+  - name: Tile
+    uniqueID: 1183124905
+    locked: 0
+  - name: Gem
+    uniqueID: 1857778505
+    locked: 0
+  - name: Arrow
+    uniqueID: 202084955
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
